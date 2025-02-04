@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a8580675-fb76-4d29-8fe5-d5264f0cf119",
+    "firstName": "dev",
+    "lastName": "patel",
+    "email": "dvv@gmai.com",
+    "mobile": "1231231235",
+    "gender": "male",
+    "country": "usa",
+    "password": "46445564sghdfd",
+    "file": "/uploads/file-1737701581702.jpg"
+  },
+  {
+    "id": "687680b7-0367-4c51-ae34-6f90a11361ef",
+    "firstName": "dev1",
+    "lastName": "patel",
+    "email": "dvv1@gmai.com",
+    "mobile": "1231231234",
+    "gender": "male",
+    "country": "usa",
+    "password": "46445564sghdfd",
+    "file": "/uploads/file-1737702500480.jpg"
+  },
+  {
+    "id": "72318314-b320-4d69-8f50-026d939d3d15",
+    "firstName": "dev12",
+    "lastName": "patel",
+    "email": "dvv12@gmai.com",
+    "mobile": "1331231234",
+    "gender": "male",
+    "country": "usa",
+    "password": "46445564sghdfd",
+    "file": "/uploads/file-1737702521750.jpg"
+  },
+  {
+    "id": "bf8c0a9c-4c8b-4c7c-ac77-f47635c567aa",
+    "firstName": "dev123",
+    "lastName": "patel",
+    "email": "dvv123@gmai.com",
+    "mobile": "1341231234",
+    "gender": "male",
+    "country": "usa",
+    "password": "46445564sghdfd",
+    "file": "/uploads/file-1737702548045.jpg"
+  }
+]
